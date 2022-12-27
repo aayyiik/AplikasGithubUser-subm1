@@ -25,7 +25,7 @@ Sistem Informasi ini terdiri dari proses :
 Proses pengembangan :
 - Kotlin
 
-Dikerjakan/Tanggung jawab : 
+Dikerjakan oleh: 
 - Ari Lathifatul Chusna (saya)
 
 
